@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @A-Ashley
 - 👀 I’m interested in computer engineering
 - 🌱 I’m currently learning game programming and development through SNHU
-- 💞️ I’m looking for any help and advice on my coding projects
+- 💞️ I’m showcasing school projects and self-led projects here
 - 😄 Pronouns: She/Her
 
 <!---
